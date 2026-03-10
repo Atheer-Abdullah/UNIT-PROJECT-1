@@ -20,6 +20,9 @@
     },
     "werer": {
         "cpp_101": 2,
-        "today_progress": 1
+        "today_progress": 2,
+        "streak": 1,
+        "last_study_date": "2026-03-10",
+        "python_101": 2
     }
 }

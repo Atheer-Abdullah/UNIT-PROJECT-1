@@ -31,7 +31,6 @@ def register():
         full_name = input(
             "Full Name "
             + Colors.WARNING
-            + f"({attempts} attempts left)"
             + Colors.RESET
             + ": "
         )
