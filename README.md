@@ -212,7 +212,8 @@ After running the program, the user interacts with the platform through the CLI 
 Example flow:
 
 1. Start the application
-2. Register a new account or login
+2. Register a new account or login important Note: For the best experience and to ensure all services (like Email/OTP) function correctly, please use a Personal Hotspot instead of a public or restricted corporate/university network. Public networks often block SMTP ports required for our services.
+
 3. Access the dashboard
 4. Choose a learning path
 5. Select a lesson
