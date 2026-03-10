@@ -1,0 +1,108 @@
+{
+  "path_title": "Python Programming 101",
+  "lessons": [
+
+    {
+      "lesson_id": 1,
+      "title": "What is Python",
+      "content": [
+        {
+          "code": "# Python is a programming language",
+          "audio_code": "Python is a programming language",
+          "note": "Python is used to build websites, AI systems, and automation tools.",
+          "audio_note": "Python is used to build websites AI systems and automation tools"
+        },
+        {
+          "code": "# Python was created by Guido van Rossum in 1991",
+          "audio_code": "Python was created by Guido van Rossum in nineteen ninety one",
+          "note": "Python became popular because it is easy to read and write.",
+          "audio_note": "Python became popular because it is easy to read and write"
+        },
+        {
+          "code": "# Python code looks clean and simple",
+          "audio_code": "Python code looks clean and simple",
+          "note": "Many beginners start learning programming using Python.",
+          "audio_note": "Many beginners start learning programming using Python"
+        }
+      ],
+      "quiz": {
+        "question": "Who created Python?",
+        "options": [
+          "A. Elon Musk",
+          "B. Guido van Rossum",
+          "C. Bill Gates"
+        ],
+        "answer": "B"
+      }
+    },
+
+    {
+      "lesson_id": 2,
+      "title": "Printing Text",
+      "content": [
+        {
+          "code": "print(\"Hello\")",
+          "audio_code": "print hello",
+          "note": "print() displays text on the screen.",
+          "audio_note": "print displays text on the screen"
+        },
+        {
+          "code": "print(\"Hello CodeEcho\")",
+          "audio_code": "print hello code echo",
+          "note": "You can print any message you want.",
+          "audio_note": "You can print any message you want"
+        },
+        {
+          "code": "print(\"Learning Python is fun\")",
+          "audio_code": "print learning python is fun",
+          "note": "The computer simply displays the message.",
+          "audio_note": "The computer simply displays the message"
+        }
+      ],
+      "quiz": {
+        "question": "Which function prints text in Python?",
+        "options": [
+          "A. print()",
+          "B. show()",
+          "C. display()"
+        ],
+        "answer": "A"
+      }
+    },
+
+    {
+      "lesson_id": 3,
+      "title": "Variables",
+      "content": [
+        {
+          "code": "name = \"Atheer\"",
+          "audio_code": "name equals Atheer",
+          "note": "Variables store information.",
+          "audio_note": "Variables store information"
+        },
+        {
+          "code": "name = \"Atheer\"\nage = 25",
+          "audio_code": "name equals Atheer age equals twenty five",
+          "note": "You can store multiple values.",
+          "audio_note": "You can store multiple values"
+        },
+        {
+          "code": "name = \"Atheer\"\nage = 25\nprint(name)\nprint(age)",
+          "audio_code": "print name and print age",
+          "note": "We can display stored values using print.",
+          "audio_note": "We can display stored values using print"
+        }
+      ],
+      "quiz": {
+        "question": "What is a variable used for?",
+        "options": [
+          "A. To store information",
+          "B. To delete data",
+          "C. To close the program"
+        ],
+        "answer": "A"
+      }
+    }
+
+  ]
+}

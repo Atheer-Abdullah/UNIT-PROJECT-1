@@ -1,0 +1,11 @@
+{
+    "athe1": {
+        "learning_speed": 0.9
+    },
+    "lm22": {
+        "learning_speed": 0.85
+    },
+    "werer": {
+        "learning_speed": 1.0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "user": "athe1",
+            "question": "What does the print() function do in Python?",
+            "answers": []
+        }
+    ]
+}

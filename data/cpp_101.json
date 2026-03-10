@@ -1,0 +1,108 @@
+{
+  "path_title": "C++ Programming 101",
+  "lessons": [
+
+    {
+      "lesson_id": 1,
+      "title": "What is C++",
+      "content": [
+        {
+          "code": "// C++ is a high performance language",
+          "audio_code": "C plus plus is a high performance language",
+          "note": "C++ is used in games and system software.",
+          "audio_note": "C plus plus is used in games and system software"
+        },
+        {
+          "code": "// C++ was created by Bjarne Stroustrup",
+          "audio_code": "C plus plus was created by Bjarne Stroustrup",
+          "note": "C++ evolved from the C language.",
+          "audio_note": "C plus plus evolved from the C language"
+        },
+        {
+          "code": "// C++ gives developers control over memory",
+          "audio_code": "C plus plus gives developers control over memory",
+          "note": "This makes it language extremely powerful.",
+          "audio_note": "This makes it language extremely powerful"
+        }
+      ],
+      "quiz": {
+        "question": "Who created C++?",
+        "options": [
+          "A. Bjarne Stroustrup",
+          "B. James Gosling",
+          "C. Guido van Rossum"
+        ],
+        "answer": "A"
+      }
+    },
+
+    {
+      "lesson_id": 2,
+      "title": "Printing Text",
+      "content": [
+        {
+          "code": "std::cout << \"Hello\";",
+          "audio_code": "standard C out hello",
+          "note": "cout prints output to the screen.",
+          "audio_note": "C out prints output to the screen"
+        },
+        {
+          "code": "std::cout << \"Hello C++\";",
+          "audio_code": "standard C out hello C plus plus",
+          "note": "The << operator sends data to the output.",
+          "audio_note": "The double arrow operator sends data to the output"
+        },
+        {
+          "code": "std::cout << \"Learning C++\";",
+          "audio_code": "standard C out learning C plus plus",
+          "note": "C++ programs often include the iostream library.",
+          "audio_note": "C plus plus programs often include the iostream library"
+        }
+      ],
+      "quiz": {
+        "question": "Which object prints output in C++?",
+        "options": [
+          "A. cout",
+          "B. print",
+          "C. output"
+        ],
+        "answer": "A"
+      }
+    },
+
+    {
+      "lesson_id": 3,
+      "title": "Variables",
+      "content": [
+        {
+          "code": "int age = 25;",
+          "audio_code": "integer age equals twenty five",
+          "note": "int stores whole numbers.",
+          "audio_note": "int stores whole numbers"
+        },
+        {
+          "code": "std::string name = \"Ali\";",
+          "audio_code": "string name equals Ali",
+          "note": "string stores text.",
+          "audio_note": "string stores text"
+        },
+        {
+          "code": "std::string name = \"Atheer\";\nint age = 25;\nstd::cout << name;",
+          "audio_code": "print name",
+          "note": "We can display variables using cout.",
+          "audio_note": "We can display variables using C out"
+        }
+      ],
+      "quiz": {
+        "question": "What type stores whole numbers in C++?",
+        "options": [
+          "A. string",
+          "B. int",
+          "C. float"
+        ],
+        "answer": "B"
+      }
+    }
+
+  ]
+}

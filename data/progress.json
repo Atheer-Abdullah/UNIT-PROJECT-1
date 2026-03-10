@@ -1,0 +1,25 @@
+{
+    "atheer_user": {
+        "python_101": 1,
+        "java_101": 1,
+        "cpp_101": 1
+    },
+    "athe1": {
+        "python_101": 3,
+        "java_101": 3,
+        "cpp_101": 2,
+        "streak": 2,
+        "daily_goal": 2,
+        "today_progress": 9,
+        "last_study_date": "2026-03-09"
+    },
+    "sar2000": {
+        "python_101": 1,
+        "java_101": 3,
+        "cpp_101": 1
+    },
+    "werer": {
+        "cpp_101": 2,
+        "today_progress": 1
+    }
+}

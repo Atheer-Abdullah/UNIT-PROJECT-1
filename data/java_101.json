@@ -1,0 +1,108 @@
+{
+  "path_title": "Java Programming 101",
+  "lessons": [
+
+    {
+      "lesson_id": 1,
+      "title": "What is Java",
+      "content": [
+        {
+          "code": "// Java is a powerful programming language",
+          "audio_code": "Java is a powerful programming language",
+          "note": "Java is widely used for enterprise systems and Android apps.",
+          "audio_note": "Java is widely used for enterprise systems and android apps"
+        },
+        {
+          "code": "// Created by James Gosling",
+          "audio_code": "Java was created by James Gosling",
+          "note": "Java became popular because it can run on many platforms.",
+          "audio_note": "Java became popular because it can run on many platforms"
+        },
+        {
+          "code": "// Write Once Run Anywhere",
+          "audio_code": "Write once run anywhere",
+          "note": "Java programs run using the JVM.",
+          "audio_note": "Java programs run using the Java Virtual Machine"
+        }
+      ],
+      "quiz": {
+        "question": "Who created Java?",
+        "options": [
+          "A. James Gosling",
+          "B. Guido van Rossum",
+          "C. Dennis Ritchie"
+        ],
+        "answer": "A"
+      }
+    },
+
+    {
+      "lesson_id": 2,
+      "title": "Printing Text",
+      "content": [
+        {
+          "code": "System.out.println(\"Hello\");",
+          "audio_code": "system out print line hello",
+          "note": "println prints text and moves to a new line.",
+          "audio_note": "print line prints text and moves to a new line"
+        },
+        {
+          "code": "System.out.println(\"Hello Java\");",
+          "audio_code": "system out print line hello java",
+          "note": "Java statements end with a semicolon.",
+          "audio_note": "Java statements end with a semicolon"
+        },
+        {
+          "code": "System.out.print(\"Hello \");\nSystem.out.println(\"World\");",
+          "audio_code": "system out print hello system out print line world",
+          "note": "print stays on the same line.",
+          "audio_note": "print stays on the same line"
+        }
+      ],
+      "quiz": {
+        "question": "Which statement prints text in Java?",
+        "options": [
+          "A. System.out.println()",
+          "B. echo()",
+          "C. display()"
+        ],
+        "answer": "A"
+      }
+    },
+
+    {
+      "lesson_id": 3,
+      "title": "Variables",
+      "content": [
+        {
+          "code": "int age = 25;",
+          "audio_code": "integer age equals twenty five",
+          "note": "int stores whole numbers.",
+          "audio_note": "int stores whole numbers"
+        },
+        {
+          "code": "String name = \"Atheer\";",
+          "audio_code": "string name equals Atheer",
+          "note": "String stores text.",
+          "audio_note": "string stores text"
+        },
+        {
+          "code": "String name = \"Atheer\";\nint age = 25;\nSystem.out.println(name);",
+          "audio_code": "print name",
+          "note": "We can display variables using println.",
+          "audio_note": "We can display variables using print line"
+        }
+      ],
+      "quiz": {
+        "question": "Which keyword stores text in Java?",
+        "options": [
+          "A. int",
+          "B. String",
+          "C. char"
+        ],
+        "answer": "B"
+      }
+    }
+
+  ]
+}
