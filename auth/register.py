@@ -26,8 +26,7 @@ def register():
     print("----------------------------------------\n")
 
     # Full Name 
-    for attempts in attempt_loop():
-
+    while True:
         full_name = input(
             "Full Name "
             + Colors.WARNING
@@ -40,7 +39,6 @@ def register():
 
         if validate_name(full_name):
             break
-
         
         print(Colors.ERROR + "Name must contain letters only" + Colors.RESET)
 
